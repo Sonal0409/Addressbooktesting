@@ -16,6 +16,9 @@ public class HomePage {
 		driver.get("http://18.189.30.178:49153/addressbook/");
 		String title = driver.getTitle();
 		System.out.println(title);
+		
+		String url = driver.getCurrentUrl();
+		System.out.println(url);
 		driver.close();
 		
 	}
