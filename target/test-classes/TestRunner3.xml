@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="ContinousTestingAddressbook" verbose="1" >
+
+
+ <test name="Test1" >
+    <classes>
+       <class name="com.addressbook.Scripts.HomePage" />
+    </classes>
+  </test>
+  
+  
+  <test name="Test2" >
+    <classes>
+       <class name="com.addressbook.Scripts.NewContact" />
+    </classes>
+  </test>
+   
+  
+
+  
+ 
+  
+</suite>

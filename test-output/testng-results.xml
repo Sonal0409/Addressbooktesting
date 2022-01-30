@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-30T09:21:44 IST" name="Default suite" finished-at="2022-01-30T09:22:00 IST" duration-ms="15955">
+    <groups>
+    </groups>
+    <test started-at="2022-01-30T09:21:44 IST" name="Default test" finished-at="2022-01-30T09:22:00 IST" duration-ms="15955">
+      <class name="com.addressbook.Scripts.NewContact">
+        <test-method signature="newContactTest()[pri:0, instance:com.addressbook.Scripts.NewContact@67080771]" started-at="2022-01-30T09:21:44 IST" name="newContactTest" finished-at="2022-01-30T09:22:00 IST" duration-ms="15874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newContactTest -->
+      </class> <!-- com.addressbook.Scripts.NewContact -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
